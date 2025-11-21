@@ -4,4 +4,4 @@
 1. 섭씨(C) <-> 화씨(F)
 2. 킬로미터(km) <-> 마일(mile)
 
-실행결과(![Uploading image.png…]())
+실행결과(<img width="1012" height="588" alt="스크린샷 2025-11-21 162116" src="https://github.com/user-attachments/assets/60be3b4e-98e1-4165-b79e-175cacabeed2" />)
